@@ -185,12 +185,7 @@ nav ul li a:hover{
     color: white;
     border-right: 3px solid rgba(255, 255, 255, 0.2);
     
-  /* box-shadow: 24px 24px 6px 20px rgba(0, 0, 0, 0.4), 12px 12px 0px 8px rgba( */
-        /* 0, */
-        /* 0, */
-        /* 0, */
-        /* 0.4 */
-      /* ) inset; */  
+   
         box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
         gap: 2em;
 
@@ -207,7 +202,7 @@ nav ul li a:hover{
     
 }
 .part-three{
-    background-image: url("images/gettyimages-1306137933-612x612.jpg");
+    background-image: url("images/gettyimages-2163255366-612x612.jpg");
     background-size: cover;
     background-position: center;
     
@@ -351,9 +346,7 @@ footer{
     padding: 20px 0px;
     font-size: 14px;}
     footer img{
-        /* width: 100px; */
-        /* height: 100px; */
-        /* margin-left: 10px; */
+        
         cursor: pointer;
         transition: 0.3s ease-in-out;
     }
